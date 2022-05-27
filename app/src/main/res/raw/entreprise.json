@@ -1,0 +1,8 @@
+{
+  "raisonSociale": "EVERIS",
+  "capital": 3232323.434,
+  "adresse": "Tetouan",
+  "departement": [
+    "RH", "DEV JAVA", "DEV DOTNET", "DEV PYTHON"
+  ]
+}
